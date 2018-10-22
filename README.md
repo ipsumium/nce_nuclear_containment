@@ -9,5 +9,5 @@ A simulation modeled in LS-Dyna of an airplane crash and the implied strains and
 Basically, this project represents a part of my work in a team (mainly the design notes) from a wider assignment described here: **1_Reactor_Building_Subject_2015-2016.pdf** while I was an Erasmus+ exchange student at École spéciale des travaux publics, du bâtiment et de l'industrie (ESTP Paris).
 
 The preliminary dimensioning of the prestressed cement grouted tendons is presented in this document: **2_Design notes_rev7.pdf**  while the presentation I have held at the end of the project can be found in this document: **3_Presentation_Nuclear Containment design.pdf**.
-**4_LS-Dyna_Source_Containment_Aircraft_impact.k** contains the model file for the simulation of an aircraft crash into the outer layer.
 
+**4_LS-Dyna_Source_Containment_Aircraft_impact.k** contains the model file for the simulation of an aircraft crash into the outer layer.
